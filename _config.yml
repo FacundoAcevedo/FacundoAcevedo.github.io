@@ -1,8 +1,8 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Facu's Blog
+url: https://FacundoAcevedo.github.io
+description: Sexy blog con cosas que no me tengo que ovlidar
 
-permalink: /:year/:month/:day/:title/
+permalink: /:day/:month/:year/:title/
 paginate: 10
 
 gems: [jekyll-paginate]
