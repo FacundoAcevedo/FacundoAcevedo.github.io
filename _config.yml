@@ -2,6 +2,7 @@ name: Facu's Blog
 url: https://FacundoAcevedo.github.io
 description: Sexy blog con cosas que no me tengo que ovlidar
 
+
 permalink: /:day/:month/:year/:title/
 paginate: 10
 
