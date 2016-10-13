@@ -5,10 +5,10 @@ date:   2013-06-05 17:06:25
 categories: Fedora Vagrant
 ---
 
-Esta última semana estuve leyendo [Ansible][Ansible] y [Vagrant][Vagrant] y me encontré con que el paquete de vagrant-libvirt que esta en los repos de Fedora da
-problemas con Nekogiri, que es una gema de ruby.
+Esta última semana estuve leyendo sobre [Ansible][Ansible] y [Vagrant][Vagrant]. Me encontré con que el paquete de vagrant-libvirt que esta en los repos de Fedora da
+problemas con Nekogiri, que es una gema de Ruby.
 
-
+Así que para instalar Vagrant podemos hacer lo siguiente:
 {% highlight bash %}
 # Descargamos la llave, suma y rpm
 wget https://keybase.io/hashicorp/key.asc -O hashicorp.asc &
