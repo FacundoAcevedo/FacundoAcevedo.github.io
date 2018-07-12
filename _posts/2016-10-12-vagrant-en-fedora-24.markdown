@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Vagrant en Fedora 24"
-date:   2013-06-05 17:06:25
+date:   2016-10-12 17:06:25
 categories: Fedora Vagrant
 ---
 
